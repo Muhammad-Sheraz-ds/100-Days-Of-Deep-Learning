@@ -1,6 +1,6 @@
 # 100 Days of Deep Learning
 
-This repository is a collection of code, resources, and notes for the "100 Days of Deep Learning" playlist from CampusX. The original content and structure are credited to CampusX, and I highly recommend checking out their [playlist](https://youtu.be/2dH_qjc9mFg?si=1WEuCfzv4bzaqE6M) for in-depth learning on various deep learning topics.
+This repository is a collection of code, resources, and notes for the "100 Days of Deep Learning" playlist from CampusX. The original content and structure are credited to CampusX, and I highly recommend checking out their playlist [https://youtu.be/2dH_qjc9mFg?si=1WEuCfzv4bzaqE6M](https://youtu.be/2dH_qjc9mFg?si=1WEuCfzv4bzaqE6M) for in-depth learning on various deep learning topics.
 
 ## Overview
 
@@ -16,3 +16,6 @@ In addition to the original content, I have added some extra materials, examples
 2. [Introduction to Perceptron](#Introduction-to-Perceptron)
 
 
+## Acknowledgments
+
+**CampusX:** Thank you for creating the "100 Days of Deep Learning" playlist and providing valuable educational content.
