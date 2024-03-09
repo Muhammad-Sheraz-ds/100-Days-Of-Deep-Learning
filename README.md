@@ -20,12 +20,40 @@ The "100 Days of Deep Learning" series is a comprehensive guide that covers a wi
 
 In addition to the original content, I have added some extra materials, examples, and explanations to enhance the learning experience. These additions aim to provide further clarification, practical insights, and additional resources to complement the existing curriculum.
 
-## Table of Contents
+## Daily Topics
 
-1. [Introduction to Deep Learning](#introduction-to-deep-learning)
-2. [Introduction to Perceptron](#Introduction-to-Perceptron)
-
-
+- **Day 1:**
+  - Overview of Deep Learning
+- **Day 2:**
+  - What is Deep Learning?
+  - Deep Learning Vs Machine Learning
+- **Day 3:**
+  - Types of Neural Networks
+  - History of Deep Learning
+  - Applications of Deep Learning
+- **Day 4:**
+  - What is a Perceptron?
+  - Perceptron Vs Neuron
+  - Perceptron Geometric Intuition
+- **Day 5:**
+  - Perceptron Trick
+  - How to train a Perceptron
+  - Perceptron Part 2
+- **Day 6:**
+  - Perceptron Loss Function
+  - Hinge Loss
+  - Binary Cross Entropy
+  - Sigmoid Function
+- **Day 7:**
+  - Problem with Perceptron
+- **Day 8:**
+  - MLP Notation
+- **Day 9:**
+  - Multi Layer Perceptron
+  - MLP Intuition
+- **Day 10:**
+  - Forward Propagation
+  - How a neural network predicts output?
 ## Acknowledgments
 
 **CampusX:** Thank you for creating the "100 Days of Deep Learning" playlist and providing valuable educational content.
