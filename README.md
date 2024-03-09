@@ -7,7 +7,7 @@
   </div>
 
   <div style="float: right; width: 50%;">
-    <img style="width: 100%;" src=Images/100daysofdl.jpeg">
+    <img style="width: 100%;" src=https://github.com/MuhammadSheraza002/100-Days-Of-Deep-Learning/blob/main/Images/100daysofdl.jpeg">
   </div>
 </div>
 
