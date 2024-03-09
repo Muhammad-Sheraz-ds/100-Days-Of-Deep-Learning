@@ -6,9 +6,10 @@
 </p>
   </div>
 
-  <div style="float: right; width: 50%;">
-    <img style="width: 100%;" src=https://github.com/MuhammadSheraza002/100-Days-Of-Deep-Learning/blob/main/Images/100daysofdl.jpeg">
-  </div>
+  <div align="center">
+  <img width="49%" src="Images/dlds.PNG">
+  <img width="49%" src="Images/mldl.PNG">
+</div>
 </div>
 
 ## Overview
