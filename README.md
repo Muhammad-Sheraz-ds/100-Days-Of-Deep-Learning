@@ -96,6 +96,9 @@ In addition to the original content, I have added some extra materials, examples
 - **Day 22:**
   - Fine Tuning Of Hyper Prameters
 	- Early Stopping In Neural Networks
+- **Day 23:**
+  - Data Scaling in Neural Network
+	- Feature Scaling in ANN
 
 	
   
