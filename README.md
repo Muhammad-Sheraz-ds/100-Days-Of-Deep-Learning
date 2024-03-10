@@ -8,7 +8,7 @@
 
   <div align="center">
   <img width="49%" src="Images/dlds.PNG">
-  <img width="49%" src="Images/mldl.PNG">
+  <img width="49%" src="Images/dl.jpeg">
 </div>
 </div>
 
