@@ -76,26 +76,27 @@ In addition to the original content, I have added some extra materials, examples
   - Backpropagation in Deep Learning (Part 3)
 	- The Why Backpropagation is?
 - **Day 19:**
-  - MLP Memoization
-- **Day 20:**
   - Gradient Descent in Neural Networks
 	- Batch Gradient Descent
 	- Mini Batch Gradient Descent
 	- Stochastics Gradient Descent
 	- Batch vs Stochastics vs Mini Batch Gradient Descent
-- **Day 21:**
+- **Day 20:**
   - Problems in ANN
    - Vanishing Gradient Problem in ANN
-   - Exploding Gradient Problem
+   - Exploding Gradient Problem in ANN
 
   
+- **Day 21:**
+  - How to Improve the Performance of a Neural Network
+	- Fine Tuning Of Hyper Prameters
+	- By Solving Problems
+		- Vanishing Gradient Problem
+		- Exploding Gradient Problem		
 - **Day 22:**
-  - Backpropagation in Deep Learning (Part 1)
-	- The What Backpropagation is?
-- **Day 23:**
   - Backpropagation in Deep Learning (Part 2)
 	- The How Backpropagation is?
-- **Day 24:**
+- **Day 23:**
   - Backpropagation in Deep Learning (Part 3)
 	- The Why Backpropagation is?
 - **Day 24:**
