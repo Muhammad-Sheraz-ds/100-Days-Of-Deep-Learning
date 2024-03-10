@@ -53,6 +53,63 @@ In addition to the original content, I have added some extra materials, examples
 - **Day 10:**
   - Forward Propagation
   - How a neural network predicts output?
+- **Day 11:**
+  - Deep Learning Classification
+	- Customer Churn Prediction using ANN  
+- **Day 12:**
+  - MNIST Dataset
+   - Handwritten Digit Classification using ANN
+- **Day 13:**
+  - Forward Propagation
+  - How a neural network predicts output?
+- **Day 14:**
+  - Graduate Admission Prediction using ANN
+- **Day 15:**
+  - Loss Functions in Deep Learning
+- **Day 16:**
+  - Backpropagation in Deep Learning (Part 1)
+	- The What Backpropagation is?
+- **Day 17:**
+  - Backpropagation in Deep Learning (Part 2)
+	- The How Backpropagation is?
+- **Day 18:**
+  - Backpropagation in Deep Learning (Part 3)
+	- The Why Backpropagation is?
+- **Day 19:**
+  - MLP Memoization
+- **Day 20:**
+  - Gradient Descent in Neural Networks
+	- Batch Gradient Descent
+	- Mini Batch Gradient Descent
+	- Stochastics Gradient Descent
+	- Batch vs Stochastics vs Mini Batch Gradient Descent
+- **Day 21:**
+  - Problems in ANN
+   - Vanishing Gradient Problem in ANN
+   - Exploding Gradient Problem
+
+  
+- **Day 22:**
+  - Backpropagation in Deep Learning (Part 1)
+	- The What Backpropagation is?
+- **Day 23:**
+  - Backpropagation in Deep Learning (Part 2)
+	- The How Backpropagation is?
+- **Day 24:**
+  - Backpropagation in Deep Learning (Part 3)
+	- The Why Backpropagation is?
+- **Day 24:**
+  - MLP Memoization
+- **Day 25:**
+  - Gradient Descent in Neural Networks
+	- Batch Gradient Descent
+	- Mini Batch Gradient Descent
+	- Stochastics Gradient Descent
+	- Batch vs Stochastics vs Mini Batch Gradient Descent
+	
+  
+  
+  
 ## Acknowledgments
 
 **CampusX:** Thank you for creating the "100 Days of Deep Learning" playlist and providing valuable educational content.
