@@ -7,8 +7,7 @@
   </div>
 
   <div align="center">
-  <img width="49%" src="Images/dlds.PNG">
-  <img width="49%"height="100%" src="Images/100daysofdl.jpeg">
+  <img width="100%" src="Images/dllalgos.PNG">
 </div>
 </div>
 
@@ -57,3 +56,11 @@ In addition to the original content, I have added some extra materials, examples
 ## Acknowledgments
 
 **CampusX:** Thank you for creating the "100 Days of Deep Learning" playlist and providing valuable educational content.
+
+
+</div>
+
+  <div align="center">
+  <img width="49%" src="Images/dlds.PNG">
+  <img width="49%"height="100%" src="Images/100daysofdl.jpeg">
+</div>
