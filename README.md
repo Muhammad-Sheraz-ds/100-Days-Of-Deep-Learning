@@ -99,8 +99,10 @@ In addition to the original content, I have added some extra materials, examples
 - **Day 23:**
   - Data Scaling in Neural Network
 	- Feature Scaling in ANN
+- **Day 24:**
+  - Overfiting in Deep Learning
+   - Dropout Layer in Deep Learning
 
-	
   
   
   
