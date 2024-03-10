@@ -2,7 +2,7 @@
 
 <div style="overflow: auto;">
   <div style="float: left; width: 50%;">
-    <p>This repository is a collection of code, resources, and notes for the "100 Days of Deep Learning" playlist from CampusX. The original content and structure are credited to CampusX, and I highly recommend checking out their playlist [https://youtu.be/2dH_qjc9mFg?si=1WEuCfzv4bzaqE6M](https://youtu.be/2dH_qjc9mFg?si=1WEuCfzv4bzaqE6M) for in-depth learning on various deep learning topics.
+    <p>This repository is a collection of code, resources, and notes for the "100 Days of Deep Learning" playlist from CampusX. The original content and structure are credited to CampusX, and I highly recommend checking out their playlist(https://youtu.be/2dH_qjc9mFg?si=1WEuCfzv4bzaqE6M) for in-depth learning on various deep learning topics.
 </p>
   </div>
 
