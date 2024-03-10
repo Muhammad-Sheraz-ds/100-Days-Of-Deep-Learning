@@ -102,7 +102,9 @@ In addition to the original content, I have added some extra materials, examples
 - **Day 24:**
   - Overfiting in Deep Learning
    - Dropout Layer in Deep Learning
-
+- **Day 25:**
+  - Dropout Layers in ANN
+	
   
   
   
