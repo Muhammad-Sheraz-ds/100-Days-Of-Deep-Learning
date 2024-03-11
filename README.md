@@ -2,7 +2,7 @@
 
 <div style="overflow: auto;">
   <div style="float: left; width: 50%;">
-    <p>Welcome to the "100 Days of Deep Learning" Repository Managed by `Muhammad Sheraz`.This repository has been meticulously crafted to serve as an advanced and comprehensive guide for mastering the Deep Learning.This repository is a collection of code, resources, and notes for the "100 Days of Deep Learning" playlist from CampusX.I highly recommend checking out their playlist(https://youtu.be/2dH_qjc9mFg?si=1WEuCfzv4bzaqE6M) for in-depth learning on various deep learning topics.
+    <p>Welcome to the 100 Days of Deep Learning Repository Managed by `Muhammad Sheraz`.This repository has been meticulously crafted to serve as an advanced and comprehensive guide for mastering the Deep Learning.This repository is a collection of code, resources, and notes for the "100 Days of Deep Learning" playlist from CampusX.I highly recommend checking out their playlist(https://youtu.be/2dH_qjc9mFg?si=1WEuCfzv4bzaqE6M) for in-depth learning on various deep learning topics.
 </p>
   </div>
 
