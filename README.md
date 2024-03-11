@@ -2,7 +2,7 @@
 
 <div style="overflow: auto;">
   <div style="float: left; width: 50%;">
-    <p>This repository is a collection of code, resources, and notes for the "100 Days of Deep Learning" playlist from CampusX. The original content and structure are credited to CampusX, and I highly recommend checking out their playlist(https://youtu.be/2dH_qjc9mFg?si=1WEuCfzv4bzaqE6M) for in-depth learning on various deep learning topics.
+    <p>Welcome to the "100 Days of Deep Learning" Repository Managed by `Muhammad Sheraz`.This repository has been meticulously crafted to serve as an advanced and comprehensive guide for mastering the Deep Learning.This repository is a collection of code, resources, and notes for the "100 Days of Deep Learning" playlist from CampusX.I highly recommend checking out their playlist(https://youtu.be/2dH_qjc9mFg?si=1WEuCfzv4bzaqE6M) for in-depth learning on various deep learning topics.
 </p>
   </div>
 
@@ -112,3 +112,4 @@ In addition to the original content, I have added some extra materials, examples
 
 **CampusX:** Thank you for creating the "100 Days of Deep Learning" playlist and providing valuable educational content.
 
+**`Muhammad Sheraz`**
