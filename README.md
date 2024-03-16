@@ -8,8 +8,8 @@
 
   <div align="center">
   <img width="100%" src="https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs40537-021-00444-8/MediaObjects/40537_2021_444_Fig3_HTML.png?as=webp">
-<img width="40%" src='https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs40537-021-00444-8/MediaObjects/40537_2021_444_Fig5_HTML.png?as=webp'>
-  <img width="58%" src="https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs40537-021-00444-8/MediaObjects/40537_2021_444_Fig29_HTML.png?as=webp">
+<img width="60%" src='https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs40537-021-00444-8/MediaObjects/40537_2021_444_Fig5_HTML.png?as=webp'>
+  <img width="38%" src="https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs40537-021-00444-8/MediaObjects/40537_2021_444_Fig29_HTML.png?as=webp">
   </div>
 </div>
 
