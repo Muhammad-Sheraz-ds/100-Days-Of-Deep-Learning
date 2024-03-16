@@ -7,7 +7,7 @@
   </div>
 
   <div align="center">
-  <img width="100%" src="Images/dllalgos.PNG">
+  <img width="100%" src=""https://example.com/deep_learning_logo.png">
 </div>
 </div>
 
