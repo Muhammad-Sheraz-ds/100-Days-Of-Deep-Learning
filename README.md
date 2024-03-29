@@ -107,7 +107,11 @@ In addition to the original content, I have added some extra materials, examples
    - Dropout Layer in Deep Learning
 - **Day 25:**
   - Dropout Layers in ANN
-	
+- **Day 26:**
+  - Regularization
+    - L1 Regularization 
+    - L2 Regularization
+ 	
   
   
   
