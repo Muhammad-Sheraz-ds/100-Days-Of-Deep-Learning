@@ -111,6 +111,13 @@ In addition to the original content, I have added some extra materials, examples
   - Regularization
     - L1 Regularization 
     - L2 Regularization
+- **Day 31:**
+  - Batch Noramlization
+    - Why Batch Noramlization?
+    - Covariate and Incovariate Shift
+    - How Batch Noramlization?
+    - Batch Noramlization in Deep Neural Networks
+
  	
   
   
