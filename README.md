@@ -118,8 +118,8 @@ In addition to the original content, I have added some extra materials, examples
     - How Batch Noramlization?
     - Batch Noramlization in Deep Neural Networks
 
- 	
-  
+- **Day 33:**	
+  - Exponentially Weighted Moving Average 
   
   
 ## Acknowledgments
