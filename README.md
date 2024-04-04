@@ -123,8 +123,10 @@ In addition to the original content, I have added some extra materials, examples
 
 - **Day 34:**	
   - Momentum Optimization
-  
-  
+
+- **Day 35:**	
+  - Nesterov Accelerated Gradient Descent 
+    - Difference Between Momentum and Nesterov Accelerated Gradient Descent 
 ## Acknowledgments
 
 **CampusX:** Thank you for creating the "100 Days of Deep Learning" playlist and providing valuable educational content.
