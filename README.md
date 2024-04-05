@@ -127,6 +127,9 @@ In addition to the original content, I have added some extra materials, examples
 - **Day 35:**	
   - Nesterov Accelerated Gradient Descent 
     - Difference Between Momentum and Nesterov Accelerated Gradient Descent 
+
+- **Day 36:**
+
 ## Acknowledgments
 
 **CampusX:** Thank you for creating the "100 Days of Deep Learning" playlist and providing valuable educational content.
