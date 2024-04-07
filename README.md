@@ -126,9 +126,61 @@ In addition to the original content, I have added some extra materials, examples
 
 - **Day 35:**	
   - Nesterov Accelerated Gradient Descent 
-    - Difference Between Momentum and Nesterov Accelerated Gradient Descent 
+    - Difference Between Momentum and Nesterov Accelerated Gradient Descent
 
-- **Day 36:**
+- **Day 36:**	
+  - AdaGrad Explained in Detail with Animations
+
+- **Day 37:**	
+  - RMSProp Explained in Detail with Animations
+
+- **Day 38:**
+  - Adam Optimizer Explained in Detail with Animations
+    
+- **Day 39:**
+ - Keras Tuner
+ - Hyperparameter Tuning a Neural Network
+   
+- **Day 40:**
+  - What is Convolutional Neural Network (CNN
+  - CNN Intution
+
+- **Day 41:**
+  - CNN Vs Visual Cortex
+  - The Famous Cat Experimen
+  - History of CNN
+
+- **Day 42:**
+ - Convolution Operation in CNN
+
+- **Day 43:**
+ - Padding in CNN
+ - Strides in CNN 
+
+- **Day 44:**
+ - Pooling Layer in CNN
+ - MaxPooling in Convolutional Neural Network
+
+- **Day 45:**
+ - CNN Architecture
+ - LeNet -5 Architecture
+
+- **Day 46:**
+ - Comparing CNN Vs ANN
+
+- **Day 47:**
+ - Backpropagation in CNN Part 1
+
+- **Day 48:**
+ - Backpropagation in CNN Part 2
+ - How Backpropagation works on Convolution, Maxpooling and Flatten Layers
+
+
+- **Day 49:**
+ - Cat Vs Dog Image Classification Project
+
+- **Day 50:**
+ - Data Augmentation in Deep Learning 
 
 ## Acknowledgments
 
