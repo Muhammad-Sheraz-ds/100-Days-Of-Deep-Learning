@@ -138,49 +138,49 @@ In addition to the original content, I have added some extra materials, examples
   - Adam Optimizer Explained in Detail with Animations
     
 - **Day 39:**
- - Keras Tuner
- - Hyperparameter Tuning a Neural Network
+  - Keras Tuner
+  - Hyperparameter Tuning a Neural Network
    
 - **Day 40:**
-  - What is Convolutional Neural Network (CNN
-  - CNN Intution
+   - What is Convolutional Neural Network (CNN
+   - CNN Intution
 
 - **Day 41:**
-  - CNN Vs Visual Cortex
-  - The Famous Cat Experimen
-  - History of CNN
+   - CNN Vs Visual Cortex
+   - The Famous Cat Experimen
+   - History of CNN
 
 - **Day 42:**
- - Convolution Operation in CNN
+  - Convolution Operation in CNN
 
 - **Day 43:**
- - Padding in CNN
- - Strides in CNN 
+  - Padding in CNN
+  - Strides in CNN 
 
 - **Day 44:**
- - Pooling Layer in CNN
- - MaxPooling in Convolutional Neural Network
+  - Pooling Layer in CNN
+  - MaxPooling in Convolutional Neural Network
 
 - **Day 45:**
- - CNN Architecture
- - LeNet -5 Architecture
+  - CNN Architecture
+  - LeNet -5 Architecture
 
 - **Day 46:**
- - Comparing CNN Vs ANN
+  - Comparing CNN Vs ANN
 
 - **Day 47:**
- - Backpropagation in CNN Part 1
+  - Backpropagation in CNN Part 1
 
 - **Day 48:**
- - Backpropagation in CNN Part 2
- - How Backpropagation works on Convolution, Maxpooling and Flatten Layers
+  - Backpropagation in CNN Part 2
+  - How Backpropagation works on Convolution, Maxpooling and Flatten Layers
 
 
 - **Day 49:**
- - Cat Vs Dog Image Classification Project
+  - Cat Vs Dog Image Classification Project
 
 - **Day 50:**
- - Data Augmentation in Deep Learning 
+  - Data Augmentation in Deep Learning 
 
 ## Acknowledgments
 
