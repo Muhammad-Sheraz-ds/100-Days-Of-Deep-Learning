@@ -4,8 +4,10 @@
   <div style="float: left; width: 50%;">
     <p>Welcome to the 100 Days of Deep Learning Repository Managed by Muhammad Sheraz.This repository has been meticulously crafted to serve as an advanced and comprehensive guide for mastering the Deep Learning.This repository is a collection of code, resources, and notes for the "100 Days of Deep Learning" playlist from CampusX.I highly recommend checking out their playlist(https://youtu.be/2dH_qjc9mFg?si=1WEuCfzv4bzaqE6M) for in-depth learning on various deep learning topics.
 </p>
+  
   </div>
 
+ 
   <div align="center">
   <img width="55%" src='https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs40537-021-00444-8/MediaObjects/40537_2021_444_Fig5_HTML.png?as=webp'>
   <img width="43%" src="https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs40537-021-00444-8/MediaObjects/40537_2021_444_Fig29_HTML.png?as=webp">
