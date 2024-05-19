@@ -184,6 +184,8 @@ In addition to the original content, I have added some extra materials, examples
 - **Day 50:**
   - Data Augmentation in Deep Learning 
 
+- **Day 51:**
+
 ## Acknowledgments
 
 **CampusX:** Thank you for creating the "100 Days of Deep Learning" playlist and providing valuable educational content.
