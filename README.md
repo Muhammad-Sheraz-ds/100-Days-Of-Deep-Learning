@@ -184,7 +184,27 @@ In addition to the original content, I have added some extra materials, examples
 - **Day 50:**
   - Data Augmentation in Deep Learning 
 
-- **Day 51:**
+
+## Additional Resources
+
+### Residual Networks (ResNets)
+- [Towards Data Science: Residual Networks (ResNets)](https://towardsdatascience.com/residual-networks-resnets-cb474c7c834a)
+
+### Understanding Inception: Simplifying the Network Architecture
+- [Medium: Understanding Inception Network Architecture](https://medium.com/swlh/understanding-inception-simplifying-the-network-architecture-54cd31d38949)
+
+### Understanding Architecture Of Inception Network & Applying It To A Real-World Dataset
+- [Medium: Understanding the Inception Network Architecture](https://gghantiwala.medium.com/understanding-the-architecture-of-the-inception-network-and-applying-it-to-a-real-world-dataset-169874795540)
+
+### Depth-wise Convolution and Depth-wise Separable Convolution
+- [Medium: Depth-wise Separable Convolutions](https://medium.com/@zurister/depth-wise-convolution-and-depth-wise-separable-convolution-37346565d4ec)
+
+### Spatial Separable Convolutions and Depthwise Separable Convolutions
+- [Towards Data Science: Introduction to Separable Convolutions](https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728)
+
+### Understanding Depthwise Separable Convolutions and the Efficiency of MobileNets
+- [Towards Data Science: Depthwise Separable Convolutions in MobileNets](https://towardsdatascience.com/understanding-depthwise-separable-convolutions-and-the-efficiency-of-mobilenets-6de3d6b62503)
+
 
 ## Acknowledgments
 
