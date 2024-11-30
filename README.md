@@ -185,8 +185,13 @@ In addition to the original content, I have added some extra materials, examples
   - Data Augmentation in Deep Learning 
 
 
-## Additional Resources
+## Additional Courses
+## **Course**: Convolutional Neural Networks (CNNs) - Andrew Ng (Coursera)
 
+
+This section includes additional resources for  the **"Convolutional Neural Networks"** course by **Andrew Ng** on **Coursera**.
+
+## Week 02
 ### Residual Networks (ResNets)
 - [Towards Data Science: Residual Networks (ResNets)](https://towardsdatascience.com/residual-networks-resnets-cb474c7c834a)
 
@@ -204,6 +209,7 @@ In addition to the original content, I have added some extra materials, examples
 
 ### Understanding Depthwise Separable Convolutions and the Efficiency of MobileNets
 - [Towards Data Science: Depthwise Separable Convolutions in MobileNets](https://towardsdatascience.com/understanding-depthwise-separable-convolutions-and-the-efficiency-of-mobilenets-6de3d6b62503)
+
 
 
 ## Acknowledgments
