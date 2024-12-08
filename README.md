@@ -178,11 +178,29 @@ In addition to the original content, I have added some extra materials, examples
   - How Backpropagation works on Convolution, Maxpooling and Flatten Layers
 
 
-- **Day 49:**
-  - Cat Vs Dog Image Classification Project
+# AI Learning Journey: Days and Resources
 
-- **Day 50:**
-  - Data Augmentation in Deep Learning 
+## **Day 49:**
+- **Project:** Cat Vs Dog Image Classification
+
+## **Day 50:**
+- **Topic:** Data Augmentation in Deep Learning
+
+---
+
+## **Additional Resources:**
+
+### Seq2Seq Models: History of LLM
+- [Seq2seq Models: Tracing the AI Revolution from RNN to GPT-3](https://learnwith.campusx.in/blog/seq2seq-models-tracing-the-ai-revolution-from-rnn-to-gpt-3)
+- [A Historical Journey: Large Language Models (LLMs) from LSTMs to ChatGPT](https://medium.com/@priyanshuprasad1718/a-historical-journey-large-language-models-llms-from-lstms-to-chatgpt-68d769ca3951)
+- [The Epic History of LLMs: Journey from RNNs to ChatGPT](https://medium.com/@sachinsoni600517/the-epic-history-of-llms-journey-from-rnns-to-chatgpt-8b6c72b40f09)
+
+
+
+### Understanding Inception: Simplifying the Network Architecture
+- [Medium: Understanding Inception Network Architecture](https://medium.com/swlh/understanding-inception-simplifying-the-network-architecture-54cd31d38949)
+
+
 
 
 ## Additional Courses
@@ -209,6 +227,29 @@ This section includes additional resources for  the **"Convolutional Neural Netw
 
 ### Understanding Depthwise Separable Convolutions and the Efficiency of MobileNets
 - [Towards Data Science: Depthwise Separable Convolutions in MobileNets](https://towardsdatascience.com/understanding-depthwise-separable-convolutions-and-the-efficiency-of-mobilenets-6de3d6b62503)
+
+## Week 03
+
+### Object Localization and Object Detection
+
+- https://medium.com/@ramitag18/object-localization-and-object-detection-b936c7dff8ce
+
+### Coursera Deep Learning Module 2 Week 3 Notes
+- https://marcossilva.github.io/en/2019/07/29/coursera-deep-learning-module-2-week-3.html
+
+## Week 04
+
+### Face Recognition
+- https://medium.com/machine-learning-bites/deeplearning-series-face-recognition-383b1558a99e
+
+### A friendly introduction to Siamese Networks
+- https://towardsdatascience.com/a-friendly-introduction-to-siamese-networks-85ab17522942
+
+### A Comprehensive Guide to Siamese Neural Networks
+- https://medium.com/@rinkinag24/a-comprehensive-guide-to-siamese-neural-networks-3358658c0513
+
+### One Shot Learning with Siamese Networks in PyTorch
+-
 
 
 
