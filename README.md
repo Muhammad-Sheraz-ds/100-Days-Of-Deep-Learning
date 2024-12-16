@@ -239,14 +239,14 @@ This section includes additional resources for  the **"Convolutional Neural Netw
 
 ## Week 04
 
+### A Comprehensive Guide to Siamese Neural Networks
+- https://medium.com/@rinkinag24/a-comprehensive-guide-to-siamese-neural-networks-3358658c0513
+
 ### Face Recognition
 - https://medium.com/machine-learning-bites/deeplearning-series-face-recognition-383b1558a99e
 
 ### A friendly introduction to Siamese Networks
 - https://towardsdatascience.com/a-friendly-introduction-to-siamese-networks-85ab17522942
-
-### A Comprehensive Guide to Siamese Neural Networks
-- https://medium.com/@rinkinag24/a-comprehensive-guide-to-siamese-neural-networks-3358658c0513
 
 ### One Shot Learning with Siamese Networks in PyTorch
 -
