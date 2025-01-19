@@ -271,6 +271,15 @@ This section includes additional resources for  the **"Convolutional Neural Netw
 ### Forward and Backpropagation in GRUs — Derived | Deep Learning
 - https://medium.com/@mihirkhandekar/forward-and-backpropagation-in-grus-derived-deep-learning-5764f374f3f5
 
+
+### Beam Search in Seq2Seq Model
+- https://medium.com/@dhartidhami/beam-search-in-seq2seq-model-7606d55b21a5
+
+### Beam Search, How It Works
+- https://towardsdatascience.com/foundations-of-nlp-explained-visually-beam-search-how-it-works-1586b9849a24
+
+
+
 ## Acknowledgments
 
 **CampusX:** Thank you for creating the "100 Days of Deep Learning" playlist and providing valuable educational content.
