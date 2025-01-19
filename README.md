@@ -264,6 +264,9 @@ This section includes additional resources for  the **"Convolutional Neural Netw
 ### RNN Forward Pass
 - https://pub.towardsai.net/whirlwind-tour-of-rnns-a11effb7808f
 
+### Bidirectional RNN In Depth
+- https://medium.com/@fraidoonomarzai99/bidirectional-rnn-in-depth-1efd32c3cf46
+  
 ### Illustrated Guide to LSTM’s and GRU’s: A step by step explanation
 - https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
 
