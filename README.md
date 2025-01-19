@@ -209,9 +209,12 @@ In addition to the original content, I have added some extra materials, examples
 
 This section includes additional resources for  the **"Convolutional Neural Networks"** course by **Andrew Ng** on **Coursera**.
 
-## Week 02
+## Week 02 
 ### Residual Networks (ResNets)
 - [Towards Data Science: Residual Networks (ResNets)](https://towardsdatascience.com/residual-networks-resnets-cb474c7c834a)
+
+### ResNets: Why Do They Perform Better than Classic ConvNets? (Conceptual Analysis)
+- https://towardsdatascience.com/resnets-why-do-they-perform-better-than-classic-convnets-conceptual-analysis-6a9c82e06e53
 
 ### Understanding Inception: Simplifying the Network Architecture
 - [Medium: Understanding Inception Network Architecture](https://medium.com/swlh/understanding-inception-simplifying-the-network-architecture-54cd31d38949)
