@@ -253,6 +253,21 @@ This section includes additional resources for  the **"Convolutional Neural Netw
 
 
 
+
+
+
+# RNN
+
+### RNN Forward Pass
+- https://pub.towardsai.net/whirlwind-tour-of-rnns-a11effb7808f
+
+### Illustrated Guide to LSTM’s and GRU’s: A step by step explanation
+- https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
+
+
+### Forward and Backpropagation in GRUs — Derived | Deep Learning
+- https://medium.com/@mihirkhandekar/forward-and-backpropagation-in-grus-derived-deep-learning-5764f374f3f5
+
 ## Acknowledgments
 
 **CampusX:** Thank you for creating the "100 Days of Deep Learning" playlist and providing valuable educational content.
