@@ -278,6 +278,11 @@ This section includes additional resources for  the **"Convolutional Neural Netw
 ### Beam Search, How It Works
 - https://towardsdatascience.com/foundations-of-nlp-explained-visually-beam-search-how-it-works-1586b9849a24
 
+### Bleu Score and WER Metrics
+- https://towardsdatascience.com/foundations-of-nlp-explained-bleu-score-and-wer-metrics-1a5ba06d812b
+
+### Attention Model
+- https://medium.com/@dhartidhami/attention-model-797472ac819a
 
 
 ## Acknowledgments
