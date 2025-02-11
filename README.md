@@ -286,8 +286,17 @@ This section includes additional resources for  the **"Convolutional Neural Netw
 
 ### Attention Model
 - https://medium.com/@dhartidhami/attention-model-797472ac819a
+- https://towardsdatascience.com/master-positional-encoding-part-ii-1cfc4d3e7375/
+- https://towardsdatascience.com/master-positional-encoding-part-i-63c05d90a0c3/
 
 
+
+
+
+
+
+# TRansformners
+- https://towardsdatascience.com/author/jmkernes/
 ## Acknowledgments
 
 **CampusX:** Thank you for creating the "100 Days of Deep Learning" playlist and providing valuable educational content.
